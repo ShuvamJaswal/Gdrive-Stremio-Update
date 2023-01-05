@@ -1,9 +1,7 @@
 
 # stremio-gdrive
 
-![image](https://user-images.githubusercontent.com/38104354/114273627-6f3c4900-9a38-11eb-8052-f05f5f414e84.png)
-![image](https://user-images.githubusercontent.com/38104354/114273632-74999380-9a38-11eb-9e7d-4ab6438ef445.png)
-
+This is an updated version of https://github.com/ssnjr2002/stremio-gdrive
 
 
 1. Go to https://console.cloud.google.com/projectcreate
@@ -27,7 +25,7 @@
 
 18. Use the colab notebook to easily obtain the token and the required code for the cloudflare proxy: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssnjrthegr8/stremio-gdrive/blob/main/Get%20Token%20and%20CF%20Proxy%20Code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShuvamJaswal/Gdrive-Stremio-Update/blob/main/Get%20Token%20and%20CF%20Proxy%20Code.ipynb)
 
 19. Run the cell of the  method number 1. Just press the circular play button beside the rectangular box. select your client-secret.json and follow the url that u receive click and login and authorize then u will be redirected to a error page (http://localhost:1/?state=dhjhvdhvdsu&code=<Copy this>&scope=https://www.googleapis.com/auth/drive, come back to colab tab and entered the copied text in authourization field then u will receive token.
 
