@@ -35,6 +35,13 @@ This is an updated version of https://github.com/ssnjr2002/stremio-gdrive
 {"token": "jhgdfgdhgfh", "refresh_token": "1//sdhgbfdhghd", "token_uri": "https://oauth2.googleapis.com/token", "client_id": "hsdgfjhgfsd.apps.googleusercontent.com", "client_secret": "gfsdfsdgf", "scopes": ["https://www.googleapis.com/auth/drive"]}
 ```
 21. goto vercel.com create a new project, click import third party repo.
+22. enter https://github.com/ShuvamJaswal/Gdrive-Stremio-Update/
+23. This will clone the repo to your github account.
+24. Goto dashboard of newly created account.
+25. goto settings> Environment variables> Enter TOKEN word in key and entered the text which u obtained in step 20 to value field.
+26. goto deployments tab.
+27. select top most entry and press menu button(vertical three dots) and tap redeploy uncheck build cache option
+28. press on visit button.
 
 ### Installing the addon to your Stremio account:
 
