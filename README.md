@@ -27,7 +27,7 @@ This is an updated version of https://github.com/ssnjr2002/stremio-gdrive
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShuvamJaswal/Gdrive-Stremio-Update/blob/main/Get%20Token%20and%20CF%20Proxy%20Code.ipynb)
 
-19. Run the cell of the  method number 1. Just press the circular play button beside the rectangular box. select your client-secret.json and follow the url that u receive click and login and authorize then u will be redirected to a error page (http://localhost:1/?state=dhjhvdhvdsu&code=#Copy this&scope=https://www.googleapis.com/auth/drive, come back to colab tab and entered the copied text in authourization field then u will receive token.
+19. Run the cell of the  method number 1. Just press the circular play button beside the rectangular box. select your client-secret.json and follow the url that u receive click and login and authorize then u will be redirected to a error page (http://localhost:1/?state=dhjhvdhvdsu&code=    Copythis       &scope=https://www.googleapis.com/auth/drive, come back to colab tab and entered the copied text in authourization field then u will receive token.
 
 20.copy the token string for later when we deploy the vercel backend, the token should look something like this:
 
