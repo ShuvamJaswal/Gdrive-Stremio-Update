@@ -82,7 +82,7 @@ class IMDb:
         """Obtain metadata from imdb suggestions api"""
         meta = ut.req_api(self.imdb_sg_url, key="d")
         if meta:
-            self.set_meta(meta[0], year="y", name="l")
+            self.set_meta(meta[0], year="y", title="l")
             return True
         return False
 
